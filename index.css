@@ -632,6 +632,10 @@
   }
   .home-container03 {
     width: 90%;
+    margin-top: var(--dl-space-space-twounits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-halfunit);
   }
   .home-container06 {
     width: 90%;
