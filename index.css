@@ -619,6 +619,9 @@
     margin-top: 20px;
     padding-top: 0px;
   }
+  .home-container31 {
+    height: 20px;
+  }
 }
 @media(max-width: 479px) {
   .home-social-bar {
@@ -637,12 +640,14 @@
   }
   .home-container12 {
     padding: 20px;
+    align-self: center;
   }
   .home-container14 {
     margin-bottom: 20px;
   }
   .home-container17 {
     padding: 20px;
+    justify-content: center;
   }
   .home-container18 {
     margin-bottom: 20px;
